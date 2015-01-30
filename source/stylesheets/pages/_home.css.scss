@@ -1,0 +1,29 @@
+#banner {
+  background-image: url(../images/stylo.jpg);
+  color: white;
+  padding: 150px 0;
+  background-size: cover;
+  height: 1200px;
+}
+
+#banner h1 {
+  font-family: $special-font;
+  font-size: 140px;
+  color: white;
+}
+
+#banner p {
+  font-size: 25px;
+  font-weight: 100;
+}
+
+#banner a {
+  font-size: 25px;
+  font-weight: 100;
+}
+
+#email-text {
+  font-family: $special-font;
+  font-size: 140px;
+  color: white;
+}

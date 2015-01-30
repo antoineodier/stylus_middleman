@@ -2,9 +2,9 @@
  * Colors & Fonts
  * ------------------------------------- */
 $navbar-color: black;
-$navbar-hover-color: $yellow;
+$navbar-hover-color: $red;
 $navbar-font-family: $header-font;
-$navbar-bg: white;
+$navbar-bg: #E1EBF5;
 
 /* -------------------------------------
  * Box model
@@ -19,10 +19,10 @@ $navbar-border-bottom-color: grey;
  * Navbar button
  * ------------------------------------- */
 $navbar-btn-height: 40px;
-$navbar-btn-bg: lightgrey;
-$navbar-btn-color: white;
+$navbar-btn-bg: #59544C;
+$navbar-btn-color: #E1EBF5;
 $navbar-btn-horizontal-padding: 10px;
-$navbar-btn-radius: 2px;
+$navbar-btn-radius: 10px;
 
 /* -------------------------------------
  * Navbar profile picture
@@ -49,6 +49,7 @@ $navbar-profile-border-width: 2px;
   .navbar-nav > .open > a,
   .navbar-nav > li > a:focus,
   .navbar-nav > .open > a:focus {
+    font-size: 20px;
     outline: none;
     color: $navbar-color;
     line-height: $navbar-height;
@@ -63,11 +64,17 @@ $navbar-profile-border-width: 2px;
 
   .navbar-nav > li > a:hover,
   .navbar-nav > .open > a:hover {
+    font-size: 20px;
     color: $navbar-hover-color;
     background-color: transparent;
   }
 
-  .navbar-brand,
+  .navbar-brand {
+  color: #59544C;
+  font-family: $special-font;
+  font-size: 40px;
+  }
+
   .navbar-brand:hover {
     outline: none;
     color: $navbar-color;
@@ -83,7 +90,7 @@ $navbar-profile-border-width: 2px;
     margin-top: ($navbar-height + 2 * $navbar-vertical-padding - $navbar-btn-height) / 2;
     font-weight: bold;
     background-color: $navbar-btn-bg;
-    font-size: 12px;
+    font-size: 20px;
     &:hover{
       background-color: darken($navbar-btn-bg, 30%);
     }
@@ -108,7 +115,7 @@ $navbar-profile-border-width: 2px;
     background: transparent;
   }
 
-  .navbar-nav > li > .dropdown-menu{
+  .navbar-nav > li {
     border-radius: 0;
     margin-top: 10px;
   }

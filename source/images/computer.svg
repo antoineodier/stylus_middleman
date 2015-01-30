@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="135px" height="140px"
+	 viewBox="0 0 135 140" enable-background="new 0 0 135 140" xml:space="preserve">
+<title>svg-workshop</title>
+<description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="noun_51585_cc" transform="translate(23.000000, 30.000000)" sketch:type="MSLayerGroup">
+		<g id="Group" sketch:type="MSShapeGroup">
+			<path id="Shape" fill="#FFFFFF" d="M82.41,0.269H7.589c-4.145,0-7.517,3.372-7.517,7.518v62.427c0,4.146,3.372,7.519,7.517,7.519
+				H82.41c4.146,0,7.518-3.373,7.518-7.519V7.787C89.928,3.641,86.557,0.269,82.41,0.269L82.41,0.269z M24.59,6.466
+				c1.339,0,2.425,1.086,2.425,2.425c0,1.339-1.086,2.425-2.425,2.425c-1.339,0-2.425-1.086-2.425-2.425
+				C22.165,7.552,23.251,6.466,24.59,6.466L24.59,6.466z M16.642,6.466c1.339,0,2.425,1.086,2.425,2.425
+				c0,1.339-1.086,2.425-2.425,2.425s-2.425-1.086-2.425-2.425C14.217,7.552,15.303,6.466,16.642,6.466L16.642,6.466z M8.694,6.466
+				c1.339,0,2.425,1.086,2.425,2.425c0,1.339-1.086,2.425-2.425,2.425c-1.339,0-2.425-1.086-2.425-2.425
+				C6.269,7.552,7.354,6.466,8.694,6.466L8.694,6.466z M85.078,70.213c0,1.471-1.197,2.668-2.668,2.668H7.589
+				c-1.471,0-2.667-1.197-2.667-2.668v-54.99h80.157L85.078,70.213L85.078,70.213z"/>
+			<rect id="Rectangle" x="12" y="21" fill="#FFFFFF" width="18.995" height="46.477"/>
+			<rect id="Rectangle_1_" x="36" y="21" fill="#FFFFFF" width="18.995" height="46.477"/>
+			<rect id="Rectangle_2_" x="59" y="21" fill="#FFFFFF" width="18.995" height="12.312"/>
+			<rect id="Rectangle_3_" x="59" y="38" fill="#FC4349" stroke="#000000" stroke-miterlimit="10" width="18.995" height="12.312"/>
+			<rect id="Rectangle_4_" x="59" y="55" fill="#FFFFFF" width="18.995" height="12.312"/>
+		</g>
+	</g>
+</g>
+</svg>
